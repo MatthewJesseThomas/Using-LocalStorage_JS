@@ -1,0 +1,66 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightslategray;
+}
+h1 {
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;    
+}
+button {
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+button:hover {
+    scale: 1.1;
+}
+.btn-1 {
+    height: 2rem;
+    width: 10rem;
+    background-color: darkblue;
+    color: yellowgreen;
+    border-radius: 1rem;        
+}
+.btn-2 {
+    height: 2rem;
+    width: 10rem;
+    background-color: darkblue;
+    color: yellowgreen;
+    border-radius: 1rem;    
+}
+.btn-3 {
+    height: 2rem;
+    width: 10rem;
+    background-color: darkblue;
+    color: yellowgreen;
+    border-radius: 1rem;
+}
+.btn-4 {
+    height: 2rem;
+    width: 10rem;
+    background-color: darkblue;
+    color: yellowgreen;
+    border-radius: 1rem;
+}
+.btn-5 {
+    height: 2rem;
+    width: 10rem;
+    background-color: darkblue;
+    color: yellowgreen;
+    border-radius: 1rem;
+}
+.displayable {
+    margin: 1rem 10rem;
+    padding: 8rem;
+    border: 12px solid black;
+}
