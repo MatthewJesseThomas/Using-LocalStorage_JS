@@ -1,0 +1,13 @@
+<div class="row-wor" id="localized-storage">
+                <div class="text-dark text-shadow-dark rounded-3 py-5 bible">
+                    <div class="row d-flex justify-content-around">
+                        <div class="card mt-2" style="width: 18rem;">
+                            <img src="https://i.postimg.cc/KYtx3N1p/horizonzerodawn-1638924347525.jpg" class="card-img-top" id="img-resize" alt="Meh" loading="lazy">
+                            <div class="card-body">
+                              <h5 class="card-title mshadow">Horizon Zero Dawn<br>(Game)</h5>
+                              <h3 class="mshadow">•Price•</h3>
+                              <h4 class="h4-mshadow">|R500|</h4>
+                              <a href="../html/checkout.html" class="btn btn-info">Add To Checkout</a>
+                            </div>
+                        </div>
+                        
